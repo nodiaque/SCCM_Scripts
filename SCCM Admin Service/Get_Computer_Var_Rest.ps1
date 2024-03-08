@@ -34,7 +34,7 @@
 
 # Variable that must be set
 $Endpoint = "<your_site_server_rest_api_URL>" # This is only the FQDN of the server
-$variable = "RDPUsers" # Variable you are looking for
+$variable = "<variable_looked>" # Variable you are looking for
 $username = "<user>" # User account used to query the Rest API in user@domain format. If using cloud, be sure the account is cloud sync
 $EncryptedPassword = "<cryptedpass>" # Crypted pass for the user. 
 
