@@ -10,7 +10,7 @@
 	.PARAMETER device
 		The device to delete
 	
-	.PARAMETER sccmsite
+	.PARAMETER endpoint
 		The FQDN to the site server to contact through rest api
 	
 	.PARAMETER username
